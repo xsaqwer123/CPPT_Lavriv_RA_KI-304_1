@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ki304.Lavriv.lab2","l":"Battery"},{"p":"ki304.Lavriv.lab2","l":"Logger"},{"p":"ki304.Lavriv.lab2","l":"OperatingSystem"},{"p":"ki304.Lavriv.lab2","l":"Phone"},{"p":"ki304.Lavriv.lab2","l":"PhoneDriver"},{"p":"ki304.Lavriv.lab2","l":"Screen"}]
